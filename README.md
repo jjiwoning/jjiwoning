@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Jiwon Choi
 Skills: JAVA/Python/HTML/Spring
 
-My Notion : [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='40'>](https://substantial-tuba-788.notion.site/My-Study-7946c3a15a6243dab70115a6c12bdff7)  
+My Notion : [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='40'>](https://jiwonchoi-study.notion.site/Jiwon-Choi-Study-List-7946c3a15a6243dab70115a6c12bdff7)  
 
 - 🌱 I’m currently learning Spring 
 - 📫 How to reach me: jjiwoning12@gmail.com 
