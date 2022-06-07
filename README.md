@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Jiwon Choi
-Skills: JAVA/Python/Swift/Spring
+Skills: JAVA/Python/Kubernetes/Spring/Openstack
 
 My Notion : [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='40'>](https://jiwonchoi-study.notion.site/Jiwon-Choi-Study-List-7946c3a15a6243dab70115a6c12bdff7)  
 
