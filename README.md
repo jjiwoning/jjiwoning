@@ -8,7 +8,7 @@ My Notion : [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/not
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjiwoning&show_icons=true&locale=en&layout=compact" alt="jjiwoning" /></p>
 
-![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjiwoning&show_icons=true&theme=radical)
+[![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjiwoning&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
