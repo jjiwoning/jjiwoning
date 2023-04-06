@@ -10,6 +10,8 @@ My Notion : [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/not
 
 [![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjiwoning&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjiwoning12)](https://solved.ac/jjiwoning12)
+
 
 <!--
 **jjiwoning/jjiwoning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
